@@ -1,0 +1,38 @@
+.container3i {
+    display: flex;
+    width: 100%;
+    float: right;
+    margin-top: 0;
+    margin-right: 0cm;
+    /* background-color: black; */
+    background-color: antiquewhite;
+  }
+  
+  .container3i img {
+    height: 35px;
+    border-radius: 9px;
+  }
+  
+  .one {
+    /* color: antiquewhite; */
+    color: black;
+    width: 33.3%;
+  }
+  
+  .one li {
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 5px;
+  }
+  
+  .two {
+    width: 33.3%;
+    margin-top: 30px;
+    text-align: center;
+    color: brown;
+  }
+  
+  .three {
+    margin-left: 7cm;
+    margin-top: .5cm;
+  }
